@@ -86,7 +86,7 @@
 	showContainingFolder = "Toon map",
 	flashEEPROM = "Flash naar EEPROM",
 	flashingEEPROM = "Aan het flashen. Zet de computer niet uit...",
-	print3D = "Print model",
+	print3D = "Print object",
 
 	sortBy = "Sorteer",
 	sortByType = "Bij type",

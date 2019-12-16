@@ -18,5 +18,5 @@
 	creating = "Profiel aan het aanmaken...",
 	installing = "Installeren",
 	installed = "MineOS is geïnstalleerd. Veel plezier!",
-	reboot = "Herstart",
+	reboot = "Herstarten",
 }
