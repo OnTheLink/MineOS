@@ -1,4 +1,5 @@
 {	
+<<<<<<< HEAD
 	help = "Help",
 	helpInfo = {
 		"• Elk object bestaat uit vormen. Hun aantal ligt aan de server configuratie, maar standaard is het 24 per object",
@@ -6,6 +7,15 @@
 		"• Houd de linkermuisknop ingedrukt om het eerste vormpunt door X en Y te plaatsen. Sleep de muis om de grootte te veranderen. Gebruik het muiswiel om de Z-coördinaat te wijzigen. Laat de knop los om het bewerken van de vorm te voltooien",
 		"• Druk op de rechtermuisknop om de vorm onder de cursor te selecteren",
 		"• Bladerwerkbalk om andere opties weer te geven",
+=======
+	help = "Hulp",
+	helpInfo = {
+		"• Elk model bestaat uit vormen. De aantallen hangen af van de server instellingen, normaal gesproken zijn het er 24 per model.",
+		"• Een model kan ook twee staten hebben: passief en actief. Wanneer je een geprint model plaatst in minecraft en erop klikt zal het model zijn staat veranderen naar het tegenovergestelde. Het aantal vormen is beperkt tot beide staten",
+		"• Houd de linkermuisknop ingedrukt om het eerste vormpunt door X en Y te plaatsen. Sleep de muis om de grootte te veranderen. Gebruik het muis scrollwiel om de Z positie te wijzigen. Laat de knop los om het bewerken van de vorm te voltooien",
+		"• Druk op de rechtermuisknop om de vorm onder de cursor te selecteren.",
+		"• Bladerwerkbalk om andere opties te bekijken",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	},
 	file = "Bestand",
 	new = "Nieuw",
@@ -14,17 +24,27 @@
 	saveAs = "Opslaan als",
 	disabled = "Uitgeschakeld",
 	enabled = "Ingeschakeld",
+<<<<<<< HEAD
 	add = "Toevoegen",
 	remove = "Verwijderen",
 	rotate = "Draaien",
 	flip = "Flip",
 	color = "C",
 	offset = "Verschuiving",
+=======
+	add = "Voeg toe",
+	remove = "Verwijder",
+	rotate = "Draaien",
+	flip = "Omdraaien",
+	color = "K",
+	offset = "Correctie",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	scale = "Schaal",
 	projectorEnabled = "Ingeschakeld",
 	xAxis = "X-as",
 	yAxis = "Y-as",
 	zAxis = "Z-as",
+<<<<<<< HEAD
 	lightLevel = "Licht niveau",
 	emitRedstone = "Zend redstone uit",
 	collidable = "Collision",
@@ -40,3 +60,20 @@
 	elementSettings = "Vorm eigenschappen",
 	failedToPrint = "Printen mislukt",
 }
+=======
+	lightLevel = "BelichtingsNiveau",
+	emitRedstone = "Redstone uitstoten",
+	collidable = "Botsing",
+	buttonMode = "Knoppen modes",
+	label = "Label",
+	tooltip = "Gereedschapstip",
+	tintEnabled = "Gebruik tint",
+	tintColor = "Tint Kleur",
+	texture = "Structuur",
+	print = "Afdrukken",
+	blockSettings = "Model instellingen",
+	projectorSettings = "Projector instellingen",
+	elementSettings = "Vorm instellingen",
+	failedToPrint = "Printen mislukt",
+}
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13

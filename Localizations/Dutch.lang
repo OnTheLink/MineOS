@@ -1,14 +1,24 @@
 {
+<<<<<<< HEAD
 	downloading = "Aan het downloaden",
 	CPUArchitecture = "CPU architectuur",
 	RAMControl = "RAM besturing",
 	packageUnloading = "Automatisch uitladen",
 	networkFTPNewConnection = "FTP-verbinding",
 	networkFTPConnections = "FTP-verbindingen",
+=======
+	downloading = "Bezig met downloaden",
+	CPUArchitecture = "CPU architectuur",
+	RAMControl = "Werkgeheugen beheren",
+	packageUnloading = "Automatisch uitladen",
+	networkFTPNewConnection = "Nieuwe FTP-Verbinding",
+	networkFTPConnections = "FTP-Verbindingen",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	networkFTPAddress = "Server adres",
 	networkFTPPort = "Server port",
 	networkFTPUser = "Gebruiker",
 	networkFTPPassword = "Wachtwoord",
+<<<<<<< HEAD
 	updatingFileList = "Bestandslijst wordt bijgewerkt...",
 	network = "Netwerk",
 	networkTimeout = "Externe computer reageert niet",
@@ -27,13 +37,37 @@
 	newWindow = "Nieuw venster",
 	launch = "Start",
 	launchWithArguments = "Start met argumenten",
+=======
+	updatingFileList = "Bestandenlijst updaten...",
+	network = "Netwerk",
+	networkTimeout = "Externe server reageert niet",
+	networkAccessDenied = "Toegang van het bestandsbeheer van de externe server is geweigerd. Neem contact op met de eigenaar om de benodigde rechten te verkrijgen.",
+	networkAllowReadAndWrite = "Toegang tot het bestandsbeheer",
+	networkModemNotAvailable = "Verbind het modum om de netwerk functies te gebruiken",
+	networkState = "Schakel netwerk in",
+	networkComputers = "Netwerk PCs opties",
+	networkName = "Naam van deze PC",
+	networkSearchRadius = "Zoekradius",
+	openWith = "Openen met…",
+	select = "Kies applicatie…",
+	keepInDock = "Houd in taakbalk",
+	closeAllWindows = "Slaat alle vensters",
+	closeWindow = "Sluit",
+	newWindow = "Nieuw venster",
+	launch = "Start op",
+	launchWithArguments = "Start op met argumenten",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	dontShowAnymore = "Laat niet meer zien",
 	newName = "Nieuwe naam",
 	folderName = "Map naam",
 	fileName = "Bestandsnaam",
 	applicationName = "Applicatie naam",
 	file = "Bestand",
+<<<<<<< HEAD
 	notExists = "Bestaat niet",
+=======
+	notExists = "bestaat niet",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	alreadyExists = "bestaat al",
 	inDirectory = "in map",
 	needReplace = "Vervangen?",
@@ -41,6 +75,7 @@
 	no = "Nee",
 	cancel = "Annuleer",
 	open = "Open",
+<<<<<<< HEAD
 	applyToAll = "Toepassen op alles",
 	toDirectory = "naar map",
 	copying = "Kopiëren",
@@ -48,20 +83,37 @@
 
 	areYouSure = "Weet u het zeker?",
 	emptyTrash = "Prullenbak legen",
+=======
+	applyToAll = "Op alles toepassen",
+	toDirectory = "naar map",
+	copying = "kopiëren",
+	faylaBlyad = "Bestand",
+
+	areYouSure = "Weet je het zeker?",
+	emptyTrash = "Leeg prullenbak",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	type = "Type",
 	size = "Grootte",
 	date = "Datum",
 	name = "Naam",
 	path = "Pad",
 	folder = "Map",
+<<<<<<< HEAD
 	unknown = "Onbekend",
 	calculatingSize = "berekenen…",
 
 	properties = "Eigenschappen",
+=======
+	unknown = "Onbekent",
+	calculatingSize = "Berekenen…",
+
+	properties = "Instellingen",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	newFolderFromChosen = "Nieuwe map van gekozen",
 	create = "Nieuw",
 	newFolder = "Map",
 	newFile = "Bestand",
+<<<<<<< HEAD
 	newFileFromURL = "Bestand uit URL",
 	newImage = "Afbeelding",
 	newApplication = "MineOS applicatie",
@@ -101,11 +153,53 @@
 	reboot = "Herstarten",
 
 	shortcutIsCorrupted = "Snelkoppeling is gekoppeld aan een niet-bestaand bestand",
+=======
+	newFileFromURL = "Bestand van URL",
+	newImage = "Foto",
+	newApplication = "MineOS applicatie",
+	paste = "Plakken",
+	copy = "Kopiëren",
+	cut = "Knippen",
+	edit = "Bewerk",
+	editInPhotoshop = "Bewerk in Photoshop",
+	rename = "Hernoem",
+	editShortcut = "Bewerk snelkoppeling",
+	createShortcut = "Maak snelkoppeling",
+	addToDock = "Voeg toe aan taakbalk",
+	removeFromDock = "Verwijder uit taakbalk",
+	moveRight = "Ga naar rechts",
+	moveLeft = "Ga naar links",
+	archive = "Voeg toe aan archief",
+	delete = "Verwijder",
+	addToFavourites = "Voeg toe aan favorieten",
+	removeFromFavourites = "Verwijder uit favorieten",
+	setAsWallpaper = "Stel in als achtergrond",
+	showPackageContent = "Toon pakketinhoud",
+	showContainingFolder = "Toon bevattende map",
+	flashEEPROM = "Flashen naar EEPROM",
+	flashingEEPROM = "Bezig met flashen. Sluit de computer niet af...",
+	print3D = "Print model",
+
+	sortBy = "Sorteer",
+	sortByType = "Op type",
+	sortByName = "Op naam",
+	sortByDate = "Op datum",
+
+	aboutSystem = "Over systeem",
+	updates = "Updates",
+	update = "Vernieuwen",
+	shutdown = "Sluit af",
+	logout = "Log uit",
+	reboot = "Herstart",
+
+	shortcutIsCorrupted = "Snelkoppeling bestaat niet meer",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	sortAutomatically = "Uitlijnen op raster",
 	onDesktop = "Op bureaublad",
 	inCurrentDirectory = "In huidige map",
 
 	errorWhileRunningProgram = "Fout tijdens ",
+<<<<<<< HEAD
 	sendedFeedback = "Feedback is verzonden",
 	sendFeedback = "Verzendt feedback",
 	yourContacts = "Uw contacten",
@@ -122,3 +216,21 @@
 	uploadingSuccess = "Geupload naar ",
 	uploadingFailure = "Uploaden mislukt: ",
 }
+=======
+	sendedFeedback = "Feedback is verstuurd",
+	sendFeedback = "Verstuurd feedback",
+	yourContacts = "Jou contacten",
+	additionalInfo = "Extra informatie",
+	stackTraceback = "Stack herleiden",
+
+	favourite = "Favoriete",
+	search = "Zoeken",
+	mounts = "Gekoppelde apparaten",
+
+	uploadToPastebin = "Uploaden naar Pastebin",
+	pasteName = "Plak naam",
+	uploading = "Bezig met uploaden...",
+	uploadingSuccess = "Geüpload naar ",
+	uploadingFailure = "Uploaden mislukt: ",
+}
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13

@@ -1,6 +1,7 @@
 {
 	toggleSyntaxHighlight = "Schakel syntaxisaccentuering in",
 	toggleAutocompletion = "Schakel automatisch aanvullen in",
+<<<<<<< HEAD
 	toggleAutoBrackets = "Schakel autobrackets in",
 	toUpperCase = "Naar boven",
 	toLowerCase = "Naar beneden",
@@ -17,23 +18,54 @@
 	selectAndPasteColor = "Selecteer en plak kleur",
 	url = "http://example.com/something.lua",
 	getFromWeb = "Openen uit URL",
+=======
+	toggleAutoBrackets = "Schakel automatisch haakjes invoegen in",
+	toUpperCase = "Naar hoofdletters",
+	toLowerCase = "Naar kleine letters",
+	convertCase = "Converteer case",
+	openingFile = "Openen",
+	arguments = "Afzonderlijke argumenten via komma",
+	launchWithArguments = "Voer met argumenten uit",	
+	addBreakpoint = "Breekpunt toevoegen",
+	clearBreakpoints = "Breekpunten verwijderen",
+	finishDebug = "Stop",
+	continueDebug = "Hervat",
+	gotoLine = "Ga naar lijn",
+	lineNumber = "Lijn",
+	selectAndPasteColor = "Selecteer en plak kleur",
+	url = "http://voorbeeld.nl/iets.lua",
+	getFromWeb = "Open vanaf URL",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	downloading = "Bestand downloaden...",
 	debugging = "Debugger op lijn ",
 	runtimeError = "Runtime fout",
 	variablesNotAvailable = "Geen variabelen gevonden",
+<<<<<<< HEAD
 	variables = "Waarde van de variabelen:",
 	pathToFile = "Pad naar bestand",
 	selectWord = "Selecteer huidige woord",
 	gotoCyka = "Ga naar",
 	gotoEnd = "Scroll naar einde",
 	gotoStart = "Scroll naar begin",
+=======
+	variables = "Waarden van de variabelen:",
+	pathToFile = "Pad naar bestand",
+	selectWord = "Selecteer huidig woord",
+	gotoCyka = "Ga naar",
+	gotoEnd = "Scroll naar het einde",
+	gotoStart = "Scroll naar het begin",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	pageDown = "Pagina omlaag",
 	pageUp = "Pagina omhoog",
 	deleteLine = "Verwijder huidige lijn",
 	cursorProperties = "Cursor eigenschappen",
 	cursorSymbol = "Symbool",
 	cursorColor = "Kleur",
+<<<<<<< HEAD
 	cursorBlinkDelay = "Knipper vertraging",
+=======
+	cursorBlinkDelay = "Knipperen vertraging",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	selection = "Selectie: ",
 	none = "geen",
 	properties = "Eigenschappen",
@@ -53,16 +85,31 @@
 	colorScheme = "Kleurenschema",
 	color = "Kleur",
 	toggleTopToolBar = "Schakel bovenste werkbalk in/uit",
+<<<<<<< HEAD
 	find = "Vinden",
 	findSomeShit = "Laten we nutteloze troep vinden…",
 	cut = "Knip",
 	copy = "Kopieer",
 	paste = "Plakken",
+=======
+	find = "Vind",
+	findSomeShit = "Laten we gaan zoeken…",
+	cut = "Knip",
+	copy = "Kopieër",
+	paste = "Plak",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	selectAll = "Selecteer alles",
 	edit = "Bewerk",
 	comment = "Schakel commentaar in/uit",
 	indent = "Inspringen",
+<<<<<<< HEAD
 	unindent = "Uitspringen",
 	flashEEPROM = "Flash naar EEPROM",
 	flashingEEPROM = "Aan het flashen. Schakel de computer niet uit...",
 }
+=======
+	unindent = "Terugspringen",
+	flashEEPROM = "EEPROM Flashen",
+	flashingEEPROM = "Bezig met flashen. Schakel de computer niet uit...",
+}
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13

@@ -1,13 +1,21 @@
 {
+<<<<<<< HEAD
 	username = "Gebruikersnaam",
 	password = "Wachtwoord",
 	submitPassword = "Volgende",
 	passwordsArentEqual = "Wachtwoorden komen niet overeen...",
+=======
+	username = "Gebruikers naam",
+	password = "Wachtwoord",
+	submitPassword = "Verzend wachtwoord",
+	passwordsArentEqual = "Wachtwoorden komen niet overeen",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	withoutPassword = "Zonder wachtwoord:",
 	wallpapers = "Achtergronden:",
 	screensavers = "Screensavers:",
 	applications = "Apps van derden:",
 	languages = "Taalpakketten:",
+<<<<<<< HEAD
 	accept = "Ik accepteer de onzin:",
 	select = "Selecteer bestandssysteem voor de installatie",
 	erase = "Wissen",
@@ -19,4 +27,17 @@
 	installing = "Installeren",
 	installed = "MineOS is geïnstalleerd. Veel plezier!",
 	reboot = "Herstarten",
+=======
+	accept = "Ik ga akkoord:",
+	select = "Kies bestandssysteem voor installatie",
+	erase = "Verwijder",
+	used = "gebruikt",
+	setup = "Stel uw profiel in",
+	customize = "Aanpassen downloads",
+	flashing = "Flashen van EEPROM...",
+	creating = "Gebruikersprofiel aanmaken...",
+	installing = "Installeren",
+	installed = "MineOS is geïnstalleerd. Veel plezier!",
+	reboot = "Herstart",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 }

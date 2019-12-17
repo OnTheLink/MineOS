@@ -1,6 +1,7 @@
 {
 	leftBarOffset = 5,
 
+<<<<<<< HEAD
 	settingsStyle = "Kleurenschema",
 	settingsAdditional = "Overige instellingen",
 
@@ -9,33 +10,61 @@
 	password = "Wachtwoord",
 	login = "Inloggen",
 	saveLogin = "Inlog informatie opslaan:",
+=======
+	settingsStyle = "Kleurschema",
+	settingsAdditional = "Aanvullende eigenschappen",
+
+	invalidPassword = "Ongeldige login of wachtwoord",
+	username = "E-mail of telefoon nummer",
+	password = "Wachtwoord",
+	login = "Log in",
+	saveLogin = "Sla login informatie op:",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 
 	loadCountConversations = "Het aantal geladen dialogen",
 	loadCountMessages = "Aantal te downloaden berichten",
 	loadCountNews = "Aantal gedownloade nieuws",
+<<<<<<< HEAD
 	scrollSpeed = "De scrollsnelheid",
 	loadCountWall = "Aantal te downloaden posts",
+=======
+	scrollSpeed = "De scroll snelheid",
+	loadCountWall = "Aantal te downloaden berichten",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	loadCountFriends = "Aantal vrienden om te downloaden",
 	loadCountDocs = "Aantal te downloaden documenten",
 
 	profile = "Profiel",
 	message = "Bericht",
 	sendMessage = "Verzend bericht",
+<<<<<<< HEAD
 	addToFriends = "Als vriend toevoegen",
+=======
+	addToFriends = "Voeg toe als vriend",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	friendRequestSent = "Verzoek is verzonden",
 	userSubscribedToYou = "Geabonneerd op jou",
 	userIsYourFriend = "Je hebt vrienden",
 
 	profileCounters = {
+<<<<<<< HEAD
 		{ field = "volgers", description = " volgers" },
 		{ field = "vrienden", description = " vrienden" },
 		{ field = "foto's", description = " foto's" },
 		{ field = "video's", description = " video's" },
 		{ field = "audio's", description = " audio's" },
+=======
+		{ field = "followers", description = " volgers" },
+		{ field = "friends", description = " vrienden" },
+		{ field = "photos", description = " foto's" },
+		{ field = "videos", description = " video's" },
+		{ field = "audios", description = " audio" },
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	},
 	profileShowAdditional = "Toon details",
 	profileHideAdditional = "Verberg gedetailleerde informatie",
 	profileTitleMainInformation = "Basis informatie",
+<<<<<<< HEAD
 	profileTitlePersonal = "Levens positie",
 	profileTitleAdditions = "persoonlijke informatie",
 	profileTitleContacts = "Contacten",
@@ -50,12 +79,29 @@
 		occupation = "Plaats van werk",
 		mobilePhone = "Mobiel",
 		homePhone = "Alt. telefoon",
+=======
+	profileTitlePersonal = "Positie in het leven",
+	profileTitleAdditions = "Persoonlijke informatie",
+	profileTitleContacts = "Contacten",
+	profileKeys = {
+		education = "Opleiding",
+		inspiredBy = "Inspireren",
+		relation = "Relaties",
+		birthday = "Verjaardag",
+		city = "Stad",
+		homeCity = "Thuis stad",
+		languages = "Talen",
+		occupation = "Wat doe je zowel in het leven",
+		mobilePhone = "Mobiel",
+		homePhone = "Alternatieve telefoon",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 		site = "Website",
 		activities = "Activiteit",
 		interests = "Interesses",
 		music = "Favoriete muziek",
 		movies = "Favoriete film",
 		books = "Favoriete boek",
+<<<<<<< HEAD
 		tv = "Favoriete show",
 		games = "Favoriete game",
 		quotes = "Favoriete quote",
@@ -65,6 +111,17 @@
 		lifeMain = "Het belangrijkste in het leven",
 		alcohol = "OTN. naar alcohol",
 		smoking = "OTN. naar roken",
+=======
+		tv = "Favoriete tv-serie",
+		games = "Favoriete spel",
+		quotes = "Favoriete citaat",
+		religion = "Vooruitzicht",
+		political = "Politieke overtuiging",
+		peopleMain = "Belangrijkste personen",
+		lifeMain = "Het belangrijkste in het leven",
+		alcohol = "alcohol",
+		smoking = "roken",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	},
 	months = {
 		"januari",
@@ -77,11 +134,16 @@
 		"augustus",
 		"september",
 		"oktober",
+<<<<<<< HEAD
 		"November",
+=======
+		"november",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 		"december",
 	},
 	relationStatuses = {
 		{
+<<<<<<< HEAD
 			"niet getrouwd",
 			"heb een vriendin",
 			"Bezet"
@@ -114,11 +176,49 @@
 		"Ultraconservatieve",
 		"Onverschillig",
 		"Libertaire",
+=======
+			"Niet getrouwd",
+			"Heeft een vriendin",
+			"verloofd",
+			"getrouwd",
+			"het is ingewikkeld",
+			"nogsteeds op zoektocht",
+			"minnaar",
+			"in het burgerlijk huwelijk",
+			[0] = "niet gespecificeerd",
+		},
+		{
+			"Niet getrouwd",
+			"Heeft een vriend",
+			"verloofd",
+			"getrouwd",
+			"het is ingewikkeld",
+			"nogsteeds op zoektocht",
+			"minnares",
+			"in het burgerlijk huwelijk",
+			[0] = "niet gespecificeerd",
+		}
+	},
+	personalPoliticalTypes = {
+		"Communist",
+		"Socialistisch",
+		"Matig",
+		"Liberaal",
+		"Conservatief",
+		"Monarchaal",
+		"Ultraconservatieve",
+		"Onverschillig",
+		"libertarian",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	},
 	personalPeopleMainTypes = {
 		"Intelligentie en creativiteit",
 		"Vriendelijkheid en eerlijkheid",
+<<<<<<< HEAD
 		"Schoonheid en gezondheid",
+=======
+		"Vriendelijkheid, schoonheid en gezondheid",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 		"Macht en rijkdom",
 		"Moed en doorzettingsvermogen",
 		"Humor en liefde voor het leven",
@@ -128,31 +228,54 @@
 		"Carrière en geld",
 		"Entertainment en recreatie",
 		"Wetenschap en onderzoek",
+<<<<<<< HEAD
 		"Verbetering van de wereld",
+=======
+		"De wereld verbeteren",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 		"Zelfontwikkeling",
 		"Schoonheid en kunst",
 		"Roem en invloed",
 	},
 	personalBlyadTypes = {
+<<<<<<< HEAD
 		"Erg negative",
 		"Negatief",
 		"Middelmatig",
+=======
+		"Scherp negatief",
+		"Negatief",
+		"Compromis",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 		"Neutraal",
 		"Positief",
 	},
 
 	friends = "Vrienden",
+<<<<<<< HEAD
 	friendsOnline = "Online vrienden",
+=======
+	friendsOnline = "Online Vrienden",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	friendsMutual = "Gemeenschappelijke vrienden",
 
 	news = "Nieuwsfeed",
 
+<<<<<<< HEAD
 	send = "Verzend",
 	conversations = "Gesprekken",
 	you = "Jij: ",
 	typeMessageHere = "Schrijf een bericht...",
 	fwdMessages = "Informatie: ",
 	attachments = "Bijlagen: ",
+=======
+	send = "Verzenden",
+	conversations = "Conversaties",
+	you = "Jij: ",
+	typeMessageHere = "Schrijf een bericht...",
+	fwdMessages = "Informatie: ",
+	attachments = "Investeringen: ",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	attachmentsTypes = {
 		photo = "foto",
 		video = "video",
@@ -161,6 +284,7 @@
 		link = "link",
 		market = "goederen",
 		market_album = "product catalogus",
+<<<<<<< HEAD
 		wall = "record",
 		wall_reply = "repost",
 		sticker = "sticker",
@@ -177,3 +301,21 @@
 
 	exit = "Uitloggen",
 }
+=======
+		wall = "opnemen",
+		wall_reply = "herplaatsen",
+		sticker = "sticker",
+		gift = "cadeau",
+		audio_message = "audio",
+	},
+	sentFromMineOS = " (Verzonden via de MineOS VK Client)",
+	
+	documents = "Documenten",
+	documentsCount = "Totaal aantal documenten",
+	documentsAdd = "Upload document",
+
+	settings = "Instellingen",
+
+	exit = "Log uit",
+}
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13

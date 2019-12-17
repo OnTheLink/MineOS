@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	continue = "Doorgaan",
 	settings = "Instellingen",
 	exit = "Verlaten",
@@ -9,12 +10,25 @@
 		"Spatie - springen, Ctrl - bukken",
 		"K - kompas, P - kijken, M - kaart, F1 - debug informatie",
 		"12345 - wapen selectie",
+=======
+	continue = "Hervat",
+	settings = "Instellingen",
+	exit = "Sluit af",
+	loadWorld = "Laad wereld",
+	controls = "Controls:",
+	controlsHelp = {
+		"WASD voor bewegen, QE - roteren",
+		"Spatie - springen, Ctrl - bukken",
+		"K - kompas, P - horloge, M - kaart, F1 - debug informatie",
+		"12345 - Wapen selectie",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 		"plaats en vernietig blokken",
 		"Muis - schieten/wereld interactie",
 		"Enter - opdrachtregel, Backspace - menu",
 	},
 	rayEngineProperties = "RayEngine™ eigenschappen",
 	screenResolution = "Scherm resolutie",
+<<<<<<< HEAD
 	drawDistance = "Draw distance: ",
 	shadingDistance = "Shading distance: ",
 	shadingCascades = "Shading cascades: ",
@@ -24,3 +38,14 @@
 	enableDayNightCycle = "Dag/nacht cyclus: ",
 	seconds = " sec",
 }
+=======
+	drawDistance = "Teken afstand: ",
+	shadingDistance = "Schaduw afstand: ",
+	shadingCascades = "Cascades in de schaduw: ",
+	raycastQuality = "Raycast kwaliteit: ",
+	dayNightCycle = "Wereld tijd: ",
+	enableSemipixelRenderer = "Semipixel-renderer: ",
+	enableDayNightCycle = "Dag/nacht cyclus: ",
+	seconds = " seconden",
+}
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13

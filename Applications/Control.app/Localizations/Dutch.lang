@@ -2,7 +2,11 @@
 	moduleDisk = "Schijven",
 	moduleRAM = "Werkgeheugen",
 	moduleEvent = "Gebeurtenissen",
+<<<<<<< HEAD
 	moduleLua = "Lua interpreter",
+=======
+	moduleLua = "Lua-tolk",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 
 	diskLabel = "Schijf label",
 	bootable = "Opstartbaar",
@@ -10,15 +14,27 @@
 	free = "Vrij",
 	options = "Opties",
 	arguments = "Argumenten",
+<<<<<<< HEAD
 	format = "Formatteren",
 	execute = "Uitvoeren",
 	waitingEvents = "Wachten voor gebeurtenissen",
 	processingEnabled = "Gebeurtenisverwerking ingeschakeld",
+=======
+	format = "Formatteer",
+	execute = "Voer uit",
+	waitingEvents = "Wachten op gebeurtenis",
+	processingEnabled = "Gebeurtenis verwerken ingeschakeld",
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
 	luaInfo = {
 		{color = 0x880000, text = _G._VERSION .. " Copyright (C) 1994-2017 Lua.org, PUC-Rio"},
 		"Typ een verklaring en druk op Enter om deze te evalueren",
 		"Voorvoegsel een uitdrukking met \ "= \" om de waarde ervan weer te geven",
 		" "
 	},
+<<<<<<< HEAD
 	luaType = "Typ verklaring hier"
 }
+=======
+	luaType = "Typ hier een verklaring"
+}
+>>>>>>> bcf29313c2905e6838fae4b35d9dacae4fa49d13
